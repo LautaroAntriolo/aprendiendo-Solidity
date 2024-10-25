@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract PesosArgentinos is ERC20, Ownable {
     constructor(address initialOwner)
-        ERC20("PesosArgentinos", "ARS")
+        ERC20("PesosArgentinos", "Lautarinho")
         Ownable(initialOwner)
     {
         _mint(msg.sender, 10000000 * 10 ** decimals());

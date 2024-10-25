@@ -602,11 +602,11 @@
 			]
 		},
 		"tokens.sol": {
-			"keccak256": "0x83dd087a534c1f7b6db4922375ecea792fe892bfd710e832377dce1e0371890b",
+			"keccak256": "0x964a6e57abcd3f68337eeeff3f7137f6b3199526514ac24c20c326f3373f3ffd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://40eb73312bbcef92ec7062a6634c2c3e77eb644d8397cd3198602f6f1dbe6e4b",
-				"dweb:/ipfs/QmPgmniRq2tg5wHVfaZzS2co8Ktkek5ZZ5HUtotBuRrq1S"
+				"bzz-raw://2cfc09509a1e96a488f470ebef29e207f08337410d67373e154697719e51ac84",
+				"dweb:/ipfs/QmeD3g6ZjkgUhum6xovZH84GTkRxiC5EdXSyCeYdBgyVL1"
 			]
 		}
 	},
